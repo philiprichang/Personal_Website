@@ -1,1 +1,7 @@
-style.css
+img {
+   position: absolute;
+   top: auto;
+   left: 30%;
+   width: 300px;
+   height: 300px;
+}
