@@ -2,5 +2,10 @@
 title: "About Me"
 ---
 
-This is a sample About Me.
+- __Name:__ Phil
+- __Occupation:__ Senior Specialist, Basketball Analytics, NBA
+
+![](CHANG-PHILIP.jpg)
+
+
 
