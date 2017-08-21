@@ -8,7 +8,7 @@ navbar:
     - text: "About Me"
       href: about.html
     - text: "Side Projects"
-      href: 
+      href: projects.html
     - text: "Other Thoughts"
       href: 
     - text: "CV"
