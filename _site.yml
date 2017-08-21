@@ -7,6 +7,13 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Side Projects"
+      href: 
+    - text: "Other Thoughts"
+      href: 
+    - text: "CV"
+      href: Resume_August.html
+    
 output:
   html_document:
     theme: flatly
