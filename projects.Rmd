@@ -1,0 +1,13 @@
+---
+title: "Projects"
+---
+
+This is a constantly updated documentation of the data projects I do in my spare time.
+
+Because of work, I generally stay away from NBA-related projects, although if you ever do want to talk about anything, feel free to contact me.
+
+## [Personal Budget Analysis](www.google.com)
+
+-Placeholder
+
+
